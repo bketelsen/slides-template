@@ -1,5 +1,14 @@
 # Hacker Slides
 
+[twitter]: # (@you)
+[event]: # (Your Event Name)
+[eventurl]: # (https://www.event.com/)
+[title]: # (Deck Title)
+[image]: # (/images/demo.png)
+[imagealt]: # (A Dog Grinning)
+[date]: # (March 17, 2018)
+[videourl]: # (https://www.event.com/myvideo/url/)
+
 ### Hack together simple slides
 
 <!-- .slide: data-transition="zoom" -->
